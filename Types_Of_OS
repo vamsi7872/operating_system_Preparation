@@ -14,7 +14,11 @@ Here are the main types:
 
   - Time-Sharing Operating Systems:
       - Allow multiple users to use the system simultaneously by sharing time slices.
-      - Examples: Unix, Multics.
+      - In the Time Sharing operating system, computer resources are allocated in a time-dependent fashion to several programs simultaneously. 
+        Thus it helps to provide a large number of user's direct access to the main computer. It is a logical extension of multiprogramming. 
+        In time-sharing, the CPU is switched among multiple programs given by different users on a scheduled basis.
+         - Examples: Unix, Multics.
+
   - Distributed Operating Systems:
 
 Manage a group of distinct computers and make them appear as a single coherent system.
